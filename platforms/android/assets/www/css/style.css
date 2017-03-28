@@ -1,0 +1,13 @@
+#buttery {
+    font-size: 100px;
+}
+
+.nav {
+    position: fixed;
+    background: white;
+    width: 100%;
+}
+
+.tab-content {
+    margin-top: 60px;
+}
